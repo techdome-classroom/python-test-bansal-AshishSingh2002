@@ -12,4 +12,4 @@ def romanToInt(s: str) -> int:
     
 print(romanToInt("III"))      
 print(romanToInt("LVIII"))     
-print(romanToInt("MCMXCIV"))   
+print(romanToInt("MCMXCIV"))
